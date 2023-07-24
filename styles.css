@@ -77,3 +77,10 @@ body {
 .italic {
     font-style: italic;
 }
+
+.text-style {
+    margin: 5px;
+}
+.text-style ul {
+    margin-left: 20px;
+}
